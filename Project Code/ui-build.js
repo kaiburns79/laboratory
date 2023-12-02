@@ -19,6 +19,8 @@
  *  generateAngularApp: To generate the angular app for the project
  */
 
+
+
  const { execSync } = require("child_process");
  const fs = require('fs');
  const os = require('os');
